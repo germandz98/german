@@ -4,7 +4,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   Alumno de Ingeniería en Tecnologías de la Información en la Universidad Tecnológica Metropolitana
   <br><br>
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">Ver Mi Perfil LinkedIn </a>
+  <a href="https://www.linkedin.com/in/example/">Ver Mi Perfil en LinkedIn </a>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
