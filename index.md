@@ -2,9 +2,9 @@
 
 ---
 
-### Category Name 1 
+### Proyecto 1 
 
-[Project 1 Title](/sample_page)
+[Proyecto de Venta de Libros](/sample_page)
 <img src="images/Proyecto Libros.PNG?raw=true"/>
 
 ---
