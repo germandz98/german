@@ -2,13 +2,13 @@
 
 ---
 
-### Proyecto 1 
+### Proyectos
 
 [Proyecto de Venta de Libros](sample_page)
 <img src="images/Proyecto Libros.PNG?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Proyecto de Chat](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
@@ -17,7 +17,7 @@
 
 ---
 
-### Proyecto 2
+### Proyectos Enlaces
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
